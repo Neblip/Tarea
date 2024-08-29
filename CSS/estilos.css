@@ -1,0 +1,76 @@
+*
+{
+    margin: 0px;
+}
+.lvl1
+{
+    background-color: cadetblue;
+    padding: 80px;
+    width: 400px;
+    height: 400px;
+    border-radius: 70px;    
+}
+.lvl2
+{
+    background-color: aquamarine;
+    border-radius: 70px;
+    width: 100px;
+    height: 100px;
+    padding: 15px 0px 0px 15px;
+    
+    
+}
+.lvl3
+{
+    background-color: aqua;
+    border-radius: 70px;
+    width: 100px;
+    height: 100px;
+    
+    padding: 15px 0px 0px 15px; 
+}
+.lvl4
+{
+    background-color: violet;
+    border-radius: 70px;
+    width: 100px;
+    height: 100px;
+    padding: 15px 0px 0px 15px;    
+}
+.lvl5
+{
+    background-color: gray;
+    border-radius: 70px;
+    width: 100px;
+    height: 100px;
+    padding: 15px 0px 0px 15px;    
+}
+.lvl6
+{
+    background-color: red;
+    border-radius: 70px;
+    width: 100px;
+    height: 100px;
+    padding: 15px 0px 0px 15px;    
+}
+.lvl7
+{
+    background-color: blue;
+    border-radius: 70px;
+    width: 100px;
+    height: 100px;
+    padding: 15px 0px 0px 15px;    
+}
+.lvl8
+{
+    background-color: aquamarine;
+    border-radius: 70px;
+    width: 100px;
+    height: 100px;
+    padding: 15px 0px 0px 15px;
+    margin-top: 60px;  
+}
+h1
+{
+    padding: 10px;
+}
